@@ -1,0 +1,9 @@
+# requirements.txt
+# Function dependencies, for example:
+# package==version
+
+bs4
+requests
+pyppeteer
+lxml
+flask
